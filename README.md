@@ -47,6 +47,10 @@ https://creator.zoho.eu/appbuilder/
 ![image](https://user-images.githubusercontent.com/5669657/208443662-6d9f6ea9-1bc8-4859-861c-72d75cfceeec.png)
 
 
+## [Using NoCode tools to design a fitness app](https://www.ballketing.com/post/nocode-tools-fitness-app)
+
+![image](https://user-images.githubusercontent.com/5669657/213708054-e84dbfd0-c95c-4212-ad2f-b31cb208e95f.png)
+
 
 ---
 
