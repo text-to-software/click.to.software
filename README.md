@@ -52,6 +52,38 @@ https://creator.zoho.eu/appbuilder/
 ![image](https://user-images.githubusercontent.com/5669657/213708054-e84dbfd0-c95c-4212-ad2f-b31cb208e95f.png)
 
 
+
+## Why it's not the best solution to use no-code/low-code in every software development process?
+
+
+### Limited Flexibility:
+
+No-code platforms offer limited flexibility, so complex applications may not be able to be built using this technology.  
+
+
+### Security Risk: 
+
+Since no-code platforms are easy to use, they may be more prone to security risks due to lack of coding knowledge.  
+
+
+### Cost: 
+
+While no-code/low-code platforms may be cheaper in the short-term, in the long-term, the cost of maintenance and upgrades can be quite high.  
+
+
+### Scalability: 
+
+No-code platforms may not be able to handle large-scale applications due to their limited capabilities.  
+
+
+### Maintenance: 
+
+No-code platforms may require more frequent updates and maintenance, which can be time-consuming and costly.
+
+
+
+
+
 ---
 
 [edit](https://github.com/text-to-software/click.to.software/edit/main/README.md)
