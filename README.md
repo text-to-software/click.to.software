@@ -83,10 +83,32 @@ http://click.to.software - no code, low code solutions,  czyli wszystko co się 
 > ## Create powerful web and mobile applications and automate workflows easily and quickly without any coding.
 
 
+[Webflow: Create a custom website | No-code website builder](https://webflow.com/)
+
+> # Build with the power of code, without writing any
+> 
+> Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers.
+
+
+[Figma: the collaborative interface design tool.](https://www.figma.com/)
+
+> Figma connects everyone in the design process so teams can deliver better products, faster.
+
+
+[From Figma to Webflow: turning your static designs into interactive websites](https://webflow.com/blog/from-figma-to-webflow-turning-your-static-designs-into-interactive-websites)
+
+> # From Figma to Webflow: turning your static designs into interactive websites
+> 
+> When you’re ready to go beyond prototyping in Figma, Webflow’s ready to help you bring your designs to life — without coding them.
 
 
 
+[Free Online Form Builder | Tally](https://tally.so/?version=5)
 
+> # The simplest way to create forms
+> 
+> Create forms for all purposes in seconds.  
+> Without knowing how to code, _and for free!_
 
 
 ### providers
