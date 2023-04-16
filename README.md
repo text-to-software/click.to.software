@@ -11,15 +11,52 @@ http://click.to.software - no code, low code solutions,  czyli wszystko co się 
 
 
 
+## Marketplaces
+
+[Most Reliable App & Cross Browser Testing Platform - BrowserStack](https://www.browserstack.com/)
+
+> # App & Browser Testing Made Easy
+> 
+> Give your users a seamless experience by testing on 3000+ real devices and browsers. Don't compromise with emulators and simulators.
+> 
+> [Get started free](https://www.browserstack.com/users/sign_up) Get a demo Get a demo Contact us
+
+
+
+
 ## Repositories
 
-+ [NoCodeFactory (NoCodeFactory) / Repositories](https://github.com/NoCodeFactory?tab=repositories)
++ [NoCodeFactory (NoCodeFactory) - Repositories](https://github.com/NoCodeFactory?tab=repositories)
 
 
 ### SaaS
 
-+ [New Pricing - My Marketplace Builder](https://mymarketplacebuilder.com/new-pricing/)
-+ 
++ [mymarketplacebuilder - My Marketplace Builder](https://mymarketplacebuilder.com/new-pricing/)
++ [WEBCON Designer Desk - WEBCON](https://webcon.com/designerdesk/)
+
+> # **A prototype**  
+> **is worth more than  
+> a thousand meetings**
+> 
+> **WEBCON Designer Desk** makes gathering
+> 
+> requirements for workflows & process applications **easy**.
+> 
+> Build models instead of Word & Visio files.
+
+[Niceapps no-code platform](https://niceapps.io/)
+
+> Put your creativity into your nice apps
+> 
+> NiceApps is a No-Code platform for creating mobile, web, desktop applications and websites.
+
+[Learn web design with free video courses and tutorials | Webflow University](https://university.webflow.com/)
+
+> # Learn web design and development — visually
+> 
+> Search from our library of lessons covering everything from layout and typography to interactions and 3D transforms.
+> 
+
 
 ### providers
 
